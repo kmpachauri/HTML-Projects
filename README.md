@@ -10,7 +10,10 @@ Here List of projects that i made -
    
 4. A Little Taco Shop - Here I have created 3 html page -
    
-      a). Index.html - Main page 
-      b). Hours.html - Store Hours page
-      c). Contact.html - Contact page
+   a) Index.html - Main page
+   
+   b). Hours.html - Store Hours page
+   
+   c). Contact.html - Contact page
+   
    I connected all three page and i add some little bit internal css also.
