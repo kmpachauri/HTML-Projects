@@ -1,0 +1,18 @@
+body{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    max-width: 550px;
+    padding: 15px;
+    margin: auto;
+    background-color:azure;
+
+}
+
+
+th,tr,td,caption{
+    border: 1px solid black;
+    padding: 8px;
+}
+        
+        
+    
